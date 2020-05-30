@@ -18,6 +18,7 @@ https://covidtracking.com/data
 https://wallethub.com/edu/states-where-social-distancing-is-most-difficult/73336/
 
 
+### Devpost
 More details about how we got the numbers and what they mean can be found here:
 
 https://devpost.com/software/is-it-safe-to-go-outside
