@@ -7,3 +7,7 @@ You will need to have the libraries tkinter and pandas.
 
 When you run this code, you will see a drop down menu where you can chose your state. After selecting your state, click accept to see details about the state, and the current situation of Covid-19.
 All the data goes up to May 29, 2020.
+
+More details about how we got the numbers and what they mean can be found here:
+
+https://devpost.com/software/is-it-safe-to-go-outside
